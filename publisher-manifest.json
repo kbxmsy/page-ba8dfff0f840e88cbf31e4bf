@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "968a34df8115d138c4dc0299",
+  "owner": "kbxmsy",
+  "repo": "page-ba8dfff0f840e88cbf31e4bf",
+  "title": "SSHUB",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ba8dfff0f840e88cbf31e4bf",
+      "a": "SSHUB",
+      "b": "稳定全球clash加速器",
+      "entity": "SSHUB",
+      "brand": "SSHUB",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "157dacf717c590ef794a5e8a3fa7a02b76829f2374593900b1d473b89cd2f5a5",
+      "content": {
+        "primary_entity": "SSHUB",
+        "keyword1": "SSHUB",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，SSHUB 提供基础版、旗舰版和团队版三档订阅，月付从 ¥15 起，年付仅需 ¥150/年。旗舰版支持 5 台设备同时在线，包含每月 300GB 极速流量与 IPLC 专线游戏加速优化；团队版面向多设备协作，支持 20 台设备与自定义路由。订阅后可按设备选择对应的 Clash 客户端，导入订阅链接即可开始使用。",
+          "AI_HERO_SUBTITLE": "SSHUB 多设备订阅加速",
+          "AI_HERO_INTRO": "SSHUB 为需要稳定全球网络连接的用户提供多种订阅套餐。基础版适合单人或少量设备，旗舰版在流量与节点质量上进一步升级，团队版则面向多设备、高流量场景。选择套餐后根据设备类型下载对应客户端并配置订阅即可。",
+          "AI_VISUAL_TITLE": "SSHUB 订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案低至每月 ¥12.5 起",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从流量、设备数和节点质量三方面对比 SSHUB 套餐。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TITLE_2": "年付更省订阅成本",
+          "AI_FEATURE_TEXT_2": "基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，长期使用可选择年付方案。",
+          "AI_FEATURE_TITLE_3": "依设备配置客户端",
+          "AI_FEATURE_TEXT_3": "Windows、macOS、Android、iOS 等平台可选用对应 Clash 客户端，导入订阅链接后按文档指引完成配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按流量和设备数选择合适档位。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端，桌面端可选 Clash Verge 或 Clash for Windows，移动端可选 Clash Meta for Android 或 Stash。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "按三步完成 SSHUB 订阅的客户端配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版和团队版之间选择合适订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端要求，下载对应的 Clash 客户端安装包。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_STEP_TEXT_3": "复制订阅链接并在客户端中导入，按客户端文档完成节点加载与代理设置。",
+          "AI_FAQ_INTRO": "套餐区别、设备数量、流量与订阅配置。",
+          "AI_CLOSING_TITLE": "选择适合的 SSHUB 套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按客户端文档完成订阅配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。家庭使用建议基础版或旗舰版，小型团队可选团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，在对应客户端中添加订阅链接即可。Clash 系客户端导入配置，Shadowrocket 与 v2rayNG 粘贴订阅地址更新。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版覆盖全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持的设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "游戏加速选哪一档套餐更合适？",
+          "AI_FAQ_QUESTION_3": "各套餐每月流量和年付价格如何？",
+          "AI_FAQ_QUESTION_4": "购买后如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁能力在各套餐间有何差异？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "agugug.cn",
+    "host": "agugug.cn"
+  },
+  "file_hashes": {
+    "index.html": "31aec5f63d2220da3620311c11e5b285219bff918a57cac40259817a773f80ed",
+    "sitemap.xml": "ab449e228c4be914b4b7547462c59d5abca864be9974ccbcddda3075592bce6e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1cf13eaca68f1829bd6ea0eccf11f19d6f7ef0f0b7d10b1a646118a41a1e2b1c",
+    "robots.txt": "4584023ce390a97f0a1023dfdf0b601e6a01978be96124a68d193eef46a621a4",
+    "e3eb738d7e1e5d95e46ae2fd444f2165.txt": "aa5a3cf997ef5588ee3e85d586a20cab1ff7809822cd07425bc4a56088d672e6"
+  },
+  "revision": "c2bae4e77011261dc7d6493197af154388e8c1bd2cc347693ad7d2ba92569886"
+}
